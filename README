@@ -1,8 +1,8 @@
 ofxBeatTracking
 
-simple beat tracking with an FFT. Subband values, Energy, Variance, Magnitude/Volume of live audio for OpenFrameworks
+simple beat tracking with an FFT. Subband values, Energy, Variance, Magnitude/Volume of live audio for OpenFrameworks.
 
-
+Fork of code by zenwerk / ofxBeatTracking
 参考文献
 
 http://www.gamedev.net/reference/programming/features/beatdetection/
